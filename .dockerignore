@@ -1,0 +1,7 @@
+.git
+dist
+tmp
+.tmp
+coverage
+*.log
+*.test
